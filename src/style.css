@@ -12,6 +12,12 @@ body {
   text-align: center;
 }
 
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .option-link {
   text-decoration: none;
 }
